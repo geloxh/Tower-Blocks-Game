@@ -1,0 +1,19 @@
+#board {
+    width: 400px;
+    height: 510px;
+    border: 4px solid #333;
+    margin: auto;
+    position: relative;
+}
+
+.blocks {
+    position: absolute;
+    width: 145px;
+    height: 50px;
+    animation-fill-mode: forwards;
+    border-radius: 5px;
+}
+
+.hideNow { 
+    visibility: hidden;
+}
