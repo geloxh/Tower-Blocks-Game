@@ -4,5 +4,5 @@ In this project my target is to learn how to build a JavaScript Tower Blocks gam
 ## Basic Prerequisites
 - **HTML**
 - **CSS**
--**JavaScript**
+- **JavaScript**
 
